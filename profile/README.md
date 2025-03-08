@@ -1,6 +1,6 @@
 # NVIDIA Isaac for Healthcare
 
-![ISAAC for Healthcare](./docs/source/i4h.png)
+![ISAAC for Healthcare](../docs/source/i4h.png)
 
 NVIDIA Isaac for Healthcare is a domain-specific framework built on top of [NVIDIA Isaac Sim](https://developer.nvidia.com/isaac-sim) and [NVIDIA Omniverse](https://www.nvidia.com/en-us/omniverse/), enabling developers to design, simulate, test, and train AI-based robots and autonomous systems, and generate synthetic data across:
 - **Therapeutics**: e.g., surgical robotics, interventional radiology and radiotherapy
@@ -28,5 +28,3 @@ NVIDIA Isaac for Healthcare consists of:
 
 The asset catalog contains a collection of assets that can be used to simulate medical devices and sensors.
 * [Source code](https://github.com/isaac-for-healthcare/i4h-asset-catalog)
-
-
