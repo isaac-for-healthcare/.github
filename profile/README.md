@@ -1,6 +1,6 @@
 # NVIDIA Isaac for Healthcare
 
-![ISAAC for Healthcare](../docs/source/i4h.png)
+![ISAAC for Healthcare](../docs/source/isaac-for-healthcare.png)
 
 **Nvidia Isaac for Healthcare is the 3-computer solution for healthcare robotics**, allowing simulation, training and deployment of AI solutions. It extends and tailors [Isaac Sim](https://developer.nvidia.com/isaac-sim) and [Isaac Lab](https://developer.nvidia.com/isaac-lab) and [Omniverse](https://www.nvidia.com/en-us/omniverse/) to enable multi-scale simulation from anatomy to sensors, surgical instruments, robotic systems, operating rooms, intensive care units, labs, sterile processing departments (SPD), and full hospital environments. NVIDIA Isaac for Healthcare leverages [Nvidia Holoscan](https://github.com/nvidia-holoscan) for hardware-in-the-loop (HIL) simulation and Sim2Real deployment of trained algorithms and policies.
 
