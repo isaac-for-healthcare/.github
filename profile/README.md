@@ -28,3 +28,7 @@ NVIDIA Isaac for Healthcare consists of:
 
 The asset catalog contains a collection of assets that can be used to simulate medical devices and sensors.
 * [Source code](https://github.com/isaac-for-healthcare/i4h-asset-catalog)
+
+## Early Access
+
+For early access, join [here](https://developer.nvidia.com/isaac-health-early-access-join)
