@@ -13,21 +13,17 @@ NVIDIA Isaac for Healthcare is a domain-specific framework built on top of [NVID
 
 NVIDIA Isaac for Healthcare consists of:
 
-## Workflows
+## [Workflows](https://github.com/isaac-for-healthcare/i4h-workflows)
 
-* **Robotic Surgery**:
-    * [Source code](https://github.com/isaac-for-healthcare/i4h-workflows/tree/main/workflows/robotic_surgery)
-* **Robotic Ultrasound**:
-    * [Source code](https://github.com/isaac-for-healthcare/i4h-workflows/tree/main/workflows/robotic_ultrasound)
+The workflows module provides comprehensive reference implementations for healthcare robotics applications, including robotic surgery and ultrasound systems. Each workflow includes complete simulation environments, training datasets, pre-trained models, and deployment tools.
 
-## Sensor Simulation
+## [Sensor Simulation](https://github.com/isaac-for-healthcare/i4h-sensor-simulation)
 
-* [Source code](https://github.com/isaac-for-healthcare/i4h-sensor-simulation)
+The sensor simulation module provides virtual models for a variety of medical sensors and imaging modalities, such as ultrasound, CT, RGB-D cameras, and more. This enables realistic testing and development of AI solutions in simulated healthcare environments.
 
-## Asset Catalog
+## [Asset Catalog](https://github.com/isaac-for-healthcare/i4h-asset-catalog)
 
 The asset catalog contains a collection of assets that can be used to simulate medical devices and sensors.
-* [Source code](https://github.com/isaac-for-healthcare/i4h-asset-catalog)
 
 ## Early Access
 
