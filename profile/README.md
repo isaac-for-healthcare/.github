@@ -10,21 +10,32 @@ NVIDIA Isaac for Healthcare is a domain-specific framework built on top of [NVID
 - **Hospital & patient care**: e.g., hospitals, operating rooms and intensive care units with medication delivery, supply transport, disinfection robots, cobots
 - **Rehabilitation & assistive technologies**: e.g., physical therapy robots, exoskeletons, etc.
 
+## 🚀 Getting started
 
-NVIDIA Isaac for Healthcare consists of:
+Get started with NVIDIA Isaac for Healthcare by exploring our core components:
 
-## [Workflows](https://github.com/isaac-for-healthcare/i4h-workflows)
+| Component | Description | Repository |
+|-----------|-------------|------------|
+| **🔧 Workflows** | Complete reference implementations for healthcare robotics applications | [View Workflows →](https://github.com/isaac-for-healthcare/i4h-workflows) |
+| **📡 Sensor Simulation** | Virtual models for medical sensors and imaging modalities | [View Sensor Simulation →](https://github.com/isaac-for-healthcare/i4h-sensor-simulation) |
+| **📦 Asset Catalog** | Collection of assets for medical devices and sensors | [View Asset Catalog →](https://github.com/isaac-for-healthcare/i4h-asset-catalog) |
+
+## 📋 Components Overview
+
+### 🔧 Workflows
 
 The workflows module provides comprehensive reference implementations for healthcare robotics applications, including robotic surgery and ultrasound systems. Each workflow includes complete simulation environments, training datasets, pre-trained models, and deployment tools.
 
-## [Sensor Simulation](https://github.com/isaac-for-healthcare/i4h-sensor-simulation)
+**[→ Explore Workflows](https://github.com/isaac-for-healthcare/i4h-workflows)**
+
+### 📡 Sensor Simulation
 
 The sensor simulation module provides virtual models for a variety of medical sensors and imaging modalities, such as ultrasound, CT, RGB-D cameras, and more. This enables realistic testing and development of AI solutions in simulated healthcare environments.
 
-## [Asset Catalog](https://github.com/isaac-for-healthcare/i4h-asset-catalog)
+**[→ Explore Sensor Simulation](https://github.com/isaac-for-healthcare/i4h-sensor-simulation)**
+
+### 📦 Asset Catalog
 
 The asset catalog contains a collection of assets that can be used to simulate medical devices and sensors.
 
-## Early Access
-
-For early access, join [here](https://developer.nvidia.com/isaac-health-early-access-join)
+**[→ Explore Asset Catalog](https://github.com/isaac-for-healthcare/i4h-asset-catalog)**
