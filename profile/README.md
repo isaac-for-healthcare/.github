@@ -1,6 +1,6 @@
 # NVIDIA Isaac for Healthcare
 
-![ISAAC for Healthcare](../docs/source/isaac-for-healthcare-cover.jpg)
+![ISAAC for Healthcare](../docs/source/isaac-for-healthcare-cover-new.jpg)
 
 **NVIDIA Isaac For Healthcare is the three-computer solution for healthcare robotics**. It is a purpose-built platform for healthcare robotics developers built on NVIDIA’s Isaac framework for physical AI. It brings together simulation, synthetic data generation, foundation models, and accelerated runtime libraries across NVIDIA’s three-computer solution for robotics—enabling developers to build, train, validate, and deploy intelligent, autonomous healthcare robots. 
 It provides the healthcare-specific building blocks needed to apply NVIDIA’s broader robotics stack to the unique challenges of healthcare—while allowing developers to benefit from the continued evolution of Isaac Sim, Isaac Lab, Newton, Cosmos, GR00T, and all other components of the NVIDIA three-computer robotics architecture. Using Isaac For Healthcare developers can build on the rapid advances in robotics by bringing healthcare-specific capabilities into the broader NVIDIA robotics stack such as Isaac Sim, Isaac Lab, and Newton, Cosmos—and apply them across healthcare robotics use cases, from medical robots such as surgical, endoluminal, imaging, diagnostic, and incisionless systems to hospital automation, including delivery, nursing, and logistics robots.
